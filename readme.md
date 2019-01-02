@@ -118,6 +118,11 @@ private fun initData() {
 - [Github](https://github.com/huangziye)
 
 
+<br />
+<br />
+
+[reference](https://github.com/93Laer/WaterView)
+
 # License
 
 ```
